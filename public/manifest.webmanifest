@@ -1,0 +1,33 @@
+{
+  "name": "Keep",
+  "short_name": "Keep",
+  "description": "Crystal-clear household expenses, budgets, and insights.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone"],
+  "orientation": "portrait",
+  "background_color": "#F3EEE6",
+  "theme_color": "#F3EEE6",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

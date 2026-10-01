@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Keep",
+      "hasCanvas": false,
+      "bodyTextLen": 43,
+      "bodyTextHash": "05b079fe11529e9aee34ae8f6af784f83607812cbf3e67d59d266898a2b24098",
+      "bodyTextPrefix": "Keep Welcome to Keep. Getting things ready…",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Keep",
+      "hasCanvas": false,
+      "bodyTextLen": 43,
+      "bodyTextHash": "05b079fe11529e9aee34ae8f6af784f83607812cbf3e67d59d266898a2b24098",
+      "bodyTextPrefix": "Keep Welcome to Keep. Getting things ready…",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
